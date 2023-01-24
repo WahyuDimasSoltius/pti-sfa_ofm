@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "573723204291",
+    "project_id": "pti-sfa-ofm",
+    "storage_bucket": "pti-sfa-ofm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573723204291:android:10936309c57a03afc12076",
+        "android_client_info": {
+          "package_name": "myapp.ptisfaofm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573723204291-s1n64e0r0fh73elhtadg3rpp4fddgf02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvs7oQeaYocbvpKfDha6DK8F02DLMkso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573723204291-s1n64e0r0fh73elhtadg3rpp4fddgf02.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573723204291-lq4qjd5ajniudmng3bjfe4kdkcrnn043.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "myapp.ptisfaofm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

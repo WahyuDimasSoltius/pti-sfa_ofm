@@ -122,7 +122,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.4",
-    "buildNumber": 21,
+    "appVersion": "0.0.5",
+    "buildNumber": 22,
     "runtimeUrl": "https://pti100-accp.apps.ap-2a.mendixcloud.com/"
 }
